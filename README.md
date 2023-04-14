@@ -7,7 +7,7 @@ This project includes login/signup along with token(jwt), video upload, thumbnai
 
 Install NodeJS, MongoDB, npm, git & your favourite text editor (VScode) in your machine, after that,
 ```
-$ git clone https://github.com/chirayu-joshi/videoServer
+$ git clone https://github.com/GhanshyamRathore1112/video-server
 $ cd videoServer
 $ cd server
 $ sudo service mongod start
@@ -17,9 +17,3 @@ $ npm start
 ```
 
 
-#### For tutorial, watch my Youtube Video:
-[Link](https://youtu.be/PS4C2snld1s)
-
-
-### If you found this project helpful, 
-Don't forget to `Star` and `Fork` this project.
