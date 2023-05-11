@@ -28,6 +28,7 @@ class Navbar extends React.Component {
                 :
                 <React.Fragment>
                   <NavLink className="nav-item nav-link" to="/signIn">Sign In</NavLink>
+      
                   <NavLink className="nav-item nav-link" to="/signUp">Sign Up</NavLink>
                 </React.Fragment>}
             </div>
